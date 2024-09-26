@@ -1,7 +1,4 @@
 //  ECCampusSimulator.h
-//  
-//
-//  Created by Yufeng Wu on 2/21/23.
 //
 
 #ifndef ECCampusSimulator_h
