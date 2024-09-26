@@ -1,8 +1,6 @@
 //
 //  ECSimHuman.h
 //  
-//
-//  Created by Yufeng Wu on 2/21/23.
 //  Human related definitions in campus simulation
 
 #ifndef ECSimHuman_h
