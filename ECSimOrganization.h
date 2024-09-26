@@ -2,8 +2,6 @@
 //  ECSimOrganization.h
 //  
 //
-//  Created by Yufeng Wu on 2/21/23.
-//
 
 #ifndef ECSimOrganization_h
 #define ECSimOrganization_h
